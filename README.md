@@ -1,16 +1,54 @@
-# social_media_app
+📱 Flutter Social Media App
+A beautifully crafted full-stack Social Media App built using Flutter, integrated with Firebase for authentication, Firestore database, and storage. It features a modern UI with Dark Mode 🌙, smooth navigation, and full social interaction functionalities like posting, liking, commenting, and following/unfollowing users — all managed with the BLoC state management pattern.
 
-A new Flutter project.
+🚀 Features
+🔐 Authentication
 
-## Getting Started
+Register/Login using email & password
 
-This project is a starting point for a Flutter application.
+Firebase Auth Integration
 
-A few resources to get you started if this is your first Flutter project:
+🖼️ Posts
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Upload and share images
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Like ❤️ and comment 💬 on posts
+
+Delete own posts
+
+🙋‍♂️ User Profiles
+
+Add/Update profile picture
+
+Edit bio
+
+View other user profiles
+
+🔍 Search
+
+Search users by username
+
+👥 Follow System
+
+Follow/Unfollow other users
+
+View followers/following
+
+🌗 Dark Mode Support
+
+Toggle between light ☀️ and dark 🌙 themes for an amazing UI experience
+
+☁️ Firebase Hosting
+
+Fully hosted and deployed using Firebase Hosting
+
+⚙️ State Management
+
+Efficient and scalable logic using BLoC pattern
+
+🛠️ Tech Stack
+Flutter – UI development
+
+Firebase – Auth, Firestore, Storage & Hosting
+
+BLoC – State management
